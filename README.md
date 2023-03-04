@@ -18,3 +18,5 @@ npm i
 ```
 npm run dev
 ```
+
+![demo](/demo.gif)
